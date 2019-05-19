@@ -1640,6 +1640,10 @@ body {
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1734,6 +1738,10 @@ body {
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-buttons,
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1795,7 +1803,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rqTLga6LEX {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/inactive-1079137-unsplash-2000x1015.jpg");
 }
 .cid-rqTLga6LEX .icons-media-container {
   display: flex;
@@ -1966,7 +1974,7 @@ body {
 .cid-rqUdiOtnQF {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-image: url("../../../assets/images/igor-miske-244066-unsplash-2000x1333.jpg");
 }
 @media (max-width: 767px) {
   .cid-rqUdiOtnQF .content {
@@ -2275,6 +2283,10 @@ body {
 .cid-rqTKPMOznn .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rqTKPMOznn .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rqTKPMOznn .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rqTKPMOznn .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rqTKPMOznn .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2368,6 +2380,10 @@ body {
   .cid-rqTKPMOznn .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rqTKPMOznn .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rqTKPMOznn .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rqTKPMOznn .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rqTKPMOznn .navbar-collapse.collapsing .navbar-buttons,
   .cid-rqTKPMOznn .navbar-collapse.show .navbar-buttons {
@@ -2734,6 +2750,10 @@ body {
 .cid-rqTKPMOznn .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rqTKPMOznn .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rqTKPMOznn .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rqTKPMOznn .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rqTKPMOznn .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2827,6 +2847,10 @@ body {
   .cid-rqTKPMOznn .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rqTKPMOznn .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rqTKPMOznn .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rqTKPMOznn .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rqTKPMOznn .navbar-collapse.collapsing .navbar-buttons,
   .cid-rqTKPMOznn .navbar-collapse.show .navbar-buttons {
@@ -3115,6 +3139,10 @@ body {
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3208,6 +3236,10 @@ body {
   .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-buttons,
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-buttons {
