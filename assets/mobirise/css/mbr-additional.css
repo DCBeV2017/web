@@ -1803,6 +1803,8 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rqTLga6LEX {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/inactive-1079137-unsplash-2000x1015.jpg");
 }
 .cid-rqTLga6LEX .icons-media-container {
@@ -1828,90 +1830,6 @@ body {
 .cid-rqTLga6LEX .card {
   padding-bottom: 1.5rem;
 }
-.cid-rqUg8gKiWQ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rqUg8gKiWQ h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rqUg8gKiWQ .progress {
-  width: 100%;
-}
-.cid-rqUg8gKiWQ .title-wrap {
-  display: flex;
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
-}
-.cid-rqUg8gKiWQ progress {
-  height: 8px;
-}
-.cid-rqUg8gKiWQ .progressbar-number {
-  display: inline-block;
-}
-.cid-rqUg8gKiWQ .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-rqUg8gKiWQ .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rqUg8gKiWQ .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rqUg8gKiWQ .section-content-title {
-  font-weight: 500;
-}
-.cid-rqUg8gKiWQ .progress_value {
-  position: relative;
-}
-.cid-rqUg8gKiWQ .progress1 .progressbar-number:before,
-.cid-rqUg8gKiWQ .progress2 .progressbar-number:before,
-.cid-rqUg8gKiWQ .progress3 .progressbar-number:before,
-.cid-rqUg8gKiWQ .progress4 .progressbar-number:before,
-.cid-rqUg8gKiWQ .progress5 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
-}
-.cid-rqUg8gKiWQ progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rqUg8gKiWQ progress::-webkit-progress-value {
-  background: #149dcc;
-}
-.cid-rqUg8gKiWQ progress[value]::-moz-progress-bar {
-  background: #149dcc;
-}
-.cid-rqUg8gKiWQ progress::-ms-fill {
-  background: #149dcc;
-}
-.cid-rqUg8gKiWQ .progress1 .progressbar-number:before {
-  content: '100';
-}
-.cid-rqUg8gKiWQ .progress2 .progressbar-number:before {
-  content: '90';
-}
-.cid-rqUg8gKiWQ .progress3 .progressbar-number:before {
-  content: '80';
-}
-.cid-rqUg8gKiWQ .progress4 .progressbar-number:before {
-  content: '70';
-}
-.cid-rqUg8gKiWQ .progress5 .progressbar-number:before {
-  content: '60';
-}
-@media (min-width: 768px) {
-  .cid-rqUg8gKiWQ .text-elements {
-    padding-right: 3rem;
-  }
-  .cid-rqUg8gKiWQ .progress_elements {
-    padding-left: 3rem;
-  }
-}
 .cid-rqUgr3vq1R {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1919,7 +1837,7 @@ body {
 }
 .cid-rqUgr3vq1R .mbr-section-subtitle {
   color: #767676;
-  text-align: center;
+  text-align: left;
   font-weight: 300;
 }
 .cid-rqUgr3vq1R .step {
@@ -1971,10 +1889,13 @@ body {
     padding-bottom: 2rem;
   }
 }
+.cid-rqUgr3vq1R .mbr-section-title DIV {
+  text-align: center;
+}
 .cid-rqUdiOtnQF {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/igor-miske-244066-unsplash-2000x1333.jpg");
+  background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
   .cid-rqUdiOtnQF .content {
